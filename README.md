@@ -1,36 +1,141 @@
-👋 Hi, I'm Pankaj Devjani
+# Hi 👋, I'm Pankaj Devjani
 
-Welcome to my GitHub! I'm a Data Analytics professional with a Master's in Computer Applications (MCA) from Christ University. I enjoy transforming raw data into meaningful insights that drive informed business decisions. My passion lies in leveraging data analytics, statistics, and machine learning to solve real-world problems.
+### Data Analyst | Python • SQL • Power BI • Azure Databricks
 
-🚀 About This Repository
+I'm a Data Analyst passionate about transforming raw data into meaningful insights that support better business decisions. I have hands-on experience in **Python, SQL, Power BI, Excel, Azure Databricks, and PySpark**, along with practical experience in data engineering and business intelligence.
 
-This repository showcases my data analytics projects, highlighting my skills in:
+🎓 **MCA (Data Analytics)** – Christ University, Bangalore
 
-🧹 Data Cleaning & Preprocessing
-📊 Exploratory Data Analysis (EDA)
-📈 Statistical Analysis & Modeling
-🤖 Machine Learning
-📉 Data Visualization & Dashboarding
-📝 Data Storytelling & Business Insights
+---
 
-Each project demonstrates practical applications of data analytics using industry-standard tools and techniques.
+## 🚀 About Me
 
-🛠️ Tools & Technologies
-Python (Pandas, NumPy, Scikit-learn)
-SQL
-Microsoft Excel
-Power BI
-Tableau
-Jupyter Notebook
-Git & GitHub
-🌱 Currently Learning
+* 📊 Data Analyst with internship experience in analytics and reporting
+* ☁️ Former Data Engineer Intern at Celebal Technologies
+* 💻 Currently working as a Web Developer at Satnam Webtech Pvt. Ltd.
+* 📈 Passionate about Data Analytics, Machine Learning, and Business Intelligence
+* 🌱 Currently learning Advanced Machine Learning, Cloud Analytics, and Data Engineering
 
-I'm continuously expanding my expertise in advanced analytics, machine learning, and cloud-based data platforms to stay aligned with industry trends.
+---
 
-🤝 Let's Connect
+## 🛠️ Tech Stack
 
-I'm always open to networking, collaborating on data-driven projects, and discussing opportunities in data analytics.
+### Programming
 
-LinkedIn: https://www.linkedin.com/in/pankaj-devjani
+* Python
+* SQL
+* JavaScript
 
-Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss data analytics.
+### Data Analytics
+
+* Pandas
+* NumPy
+* Power BI
+* Microsoft Excel
+* Streamlit
+
+### Data Engineering
+
+* Azure Databricks
+* PySpark
+* ETL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* Jupyter Notebook
+* Node.js
+
+---
+
+## 📂 Featured Projects
+
+### 🛒 E-Commerce Sales Analytics
+
+An end-to-end analytics project featuring:
+
+* Data Cleaning & Preprocessing
+* SQLite Data Warehouse
+* RFM Customer Segmentation
+* Cohort Retention Analysis
+* SQL Analytics
+* Interactive Streamlit Dashboard
+* Automated Testing with Pytest
+
+🔗 Repository:
+**github.com/Devjani-Pankaj/ecommerce-sales-analytics**
+
+---
+
+### 🎓 Course Recommendation Engine (Open-Deck)
+
+A machine learning recommendation system built using collaborative filtering.
+
+Features:
+
+* Learner Behavior Analysis
+* Cosine Similarity Recommendation
+* JSON Data Processing
+* Flask Web Application
+* Recommendation Ranking Engine
+
+🔗 Repository:
+**github.com/Devjani-Pankaj/Open-Deck**
+
+---
+
+### 🚚 Quickie Delivery Platform
+
+A full-stack delivery platform developed as a team project.
+
+Highlights:
+
+* User Authentication
+* Cart & Order Management
+* Reward Points System
+* Node.js + Express Backend
+* MySQL Database
+
+🔗 Repository:
+**github.com/Devjani-Pankaj/Quickie**
+
+---
+
+## 🏆 Certifications
+
+* Databricks Certified Data Engineer Associate
+* AWS Academy Cloud Foundations
+* Hadoop 101
+* Accenture Data Analytics & Visualization Job Simulation
+
+---
+
+## 📈 Areas of Interest
+
+* Data Analytics
+* Business Intelligence
+* Data Engineering
+* Machine Learning
+* Data Visualization
+* Cloud Analytics
+
+---
+
+## 🤝 Connect with Me
+
+📍 Alwar, Rajasthan, India
+
+💼 LinkedIn:
+https://www.linkedin.com/in/pankajdevjani
+
+💻 GitHub:
+https://github.com/Devjani-Pankaj
+
+📧 Email:
+[pankajdevjani91@gmail.com](mailto:pankajdevjani91@gmail.com)
+
+---
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me if you'd like to collaborate on data analytics or data engineering projects.
