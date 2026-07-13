@@ -31,6 +31,6 @@ I'm continuously expanding my expertise in advanced analytics, machine learning,
 
 I'm always open to networking, collaborating on data-driven projects, and discussing opportunities in data analytics.
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/pankaj-devjani
 
 Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or discuss data analytics.
